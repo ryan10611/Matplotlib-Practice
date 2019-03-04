@@ -1,0 +1,7 @@
+Trends:
+
+1. The highest number of drivers are in urban cities; this is due to the high concentration of people in a small area and larger amounts of supply due to the large market of riders.
+
+2. The average fare is higher in rural cities while supply and demand in rural areas are both low, this is due to scarcity of drivers and therefore consumers must pay a premium to access a *rare* service.
+
+3. The highest number of riders are in urban cities; this is also due to the high concentration of people in a small area and higher demand for rideshare because of externalities like traffic in congested cities.
